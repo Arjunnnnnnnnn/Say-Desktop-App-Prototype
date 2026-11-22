@@ -1,0 +1,28 @@
+THEMES = {
+    "light": {
+        "background": "#F5F5F2",
+        "surface": "#FFFFFF",
+        "surface_alt": "#ECECE6",
+        "border": "#E4E4DC",
+        "text": "#20201E",
+        "muted": "#77776F",
+        "entry": "#FFFFFF",
+        "accent": "#FFD900",
+        "accent_hover": "#E7C400",
+        "accent_text": "#20201E",
+        "sidebar": "#FFFFFF",
+    },
+    "dark": {
+        "background": "#191916",
+        "surface": "#242420",
+        "surface_alt": "#30302A",
+        "border": "#3D3D35",
+        "text": "#F5F5EF",
+        "muted": "#AAA99E",
+        "entry": "#30302A",
+        "accent": "#FFD900",
+        "accent_hover": "#E7C400",
+        "accent_text": "#20201E",
+        "sidebar": "#22221E",
+    },
+}

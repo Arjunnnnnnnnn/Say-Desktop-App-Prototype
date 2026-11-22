@@ -1,0 +1,14 @@
+
+# Say desktop prototype
+# Python 3.11+
+#
+# Uses:
+# tkinter
+# sqlite3
+# hashlib
+# hmac
+# secrets
+# pathlib
+# re
+#
+# These are Python standard-library modules.
